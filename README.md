@@ -13,9 +13,13 @@
 
 以下文章索引为发布时间倒序：
 
-- [xorm - 课时 2：高级用法讲解](https://github.com/Unknwon/blogposts_ZH/issues/6)
-- [基于 Gogs 进行协同工作](https://github.com/Unknwon/blogposts_ZH/issues/5)
-- [使用 Gogs 搭建私有 Git 托管服务](https://github.com/Unknwon/blogposts_ZH/issues/4)
-- [xorm - 课时 1：常见用法指导](https://github.com/Unknwon/blogposts_ZH/issues/3)
-- [Gogs：用二进制才是真正的部署](https://github.com/Unknwon/blogposts_ZH/issues/2)
-- [goconfig - 课时 1：goconfig 使用解析](https://github.com/Unknwon/blogposts_ZH/issues/1)
+- [通过 Gogs 的组织功能管理团队](https://github.com/Unknwon/wuwen.org/issues/10)
+- [goconvey - 课时 1：优雅的单元测试](https://github.com/Unknwon/wuwen.org/issues/9)
+- [iTerm2 主题配置](https://github.com/Unknwon/wuwen.org/issues/8)
+- [配置 VIM 的 Go 语言开发环境](https://github.com/Unknwon/wuwen.org/issues/7)
+- [xorm - 课时 2：高级用法讲解](https://github.com/Unknwon/wuwen.org/issues/6)
+- [基于 Gogs 进行协同工作](https://github.com/Unknwon/wuwen.org/issues/5)
+- [使用 Gogs 搭建私有 Git 托管服务](https://github.com/Unknwon/wuwen.org/issues/4)
+- [xorm - 课时 1：常见用法指导](https://github.com/Unknwon/wuwen.org/issues/3)
+- [Gogs：用二进制才是真正的部署](https://github.com/Unknwon/wuwen.org/issues/2)
+- [goconfig - 课时 1：goconfig 使用解析](https://github.com/Unknwon/wuwen.org/issues/1)
