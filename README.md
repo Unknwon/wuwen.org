@@ -13,5 +13,7 @@
 
 以下文章索引为发布时间倒序：
 
+- [使用 Gogs 搭建私有 Git 托管服务](https://github.com/Unknwon/blogposts_ZH/issues/4)
+- [xorm - 课时 1：常见用法指导](https://github.com/Unknwon/blogposts_ZH/issues/3)
 - [Gogs：用二进制才是真正的部署](https://github.com/Unknwon/blogposts_ZH/issues/2)
 - [goconfig - 课时 1：goconfig 使用解析](https://github.com/Unknwon/blogposts_ZH/issues/1)
