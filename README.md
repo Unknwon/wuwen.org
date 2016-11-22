@@ -13,6 +13,10 @@
 
 以下文章索引为发布时间倒序：
 
+- [使用 Vagrant 安装 DevStack 小记](https://github.com/Unknwon/wuwen.org/issues/14)
+- [Pull Request、Wiki 和全新界面的 Gogs](https://github.com/Unknwon/wuwen.org/issues/13)
+- [使用 HTTPS 部署 Gogs](https://github.com/Unknwon/wuwen.org/issues/12)
+- [Caddy 部署实践](https://github.com/Unknwon/wuwen.org/issues/11)
 - [通过 Gogs 的组织功能管理团队](https://github.com/Unknwon/wuwen.org/issues/10)
 - [goconvey - 课时 1：优雅的单元测试](https://github.com/Unknwon/wuwen.org/issues/9)
 - [iTerm2 主题配置](https://github.com/Unknwon/wuwen.org/issues/8)
