@@ -13,6 +13,7 @@
 
 以下文章索引为发布时间倒序：
 
+- [AWS EC2 启用 IPv6 小记](https://github.com/Unknwon/wuwen.org/issues/19)
 - [ThinkPad 安装 Windows 10 + Linux Deepin 15.4.1 完美双系统](https://github.com/Unknwon/wuwen.org/issues/18)
 - [Gogs：Discord、Web 编辑器和保护分支](https://github.com/Unknwon/wuwen.org/issues/17)
 - [如何备份导出 IOS 微信聊天数据库](https://github.com/Unknwon/wuwen.org/issues/15)
