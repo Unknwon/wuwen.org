@@ -9,6 +9,8 @@
 
 ### 抛弃世俗之浮躁，留我钻研之刻苦。
 
+![](https://github.com/unknwon/building-web-applications-in-go/blob/master/images/qrcode.jpg)
+
 ### 追逐自由的学术境界，为了技术的精湛而坚持不懈。
 
 以下文章索引为发布时间倒序：
