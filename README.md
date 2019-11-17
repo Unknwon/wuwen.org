@@ -15,7 +15,7 @@
 
 以下文章索引为发布时间倒序：
 
-- [我在 Sourcegraph 的开发日常](https://github.com/unknwon/wuwen.org/issues/22)
+- [在国外远程办公是一种怎样的体验？](https://github.com/unknwon/wuwen.org/issues/22)
 - [GitHub Mobile 抢先体验篇](https://github.com/unknwon/wuwen.org/issues/21)
 - [代理环境下在 macOS 上安装 Minikube 小记](https://github.com/unknwon/wuwen.org/issues/20)
 - [AWS EC2 启用 IPv6 小记](https://github.com/unknwon/wuwen.org/issues/19)
